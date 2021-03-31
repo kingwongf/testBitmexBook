@@ -1,0 +1,5 @@
+.DS_Store
+*.csv.gz
+*.csv
+*.gz
+yieldCurve.ipynb
